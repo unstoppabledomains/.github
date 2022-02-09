@@ -15,7 +15,7 @@ jobs:
     - uses: lowlighter/metrics@latest
       with:
         user: unstoppabledomains
-        filename: metrics.svg
+        filename: profile/metrics.svg
         token: ${{ secrets.METRICS_PAT }}
         base: header, activity, community, repositories, metadata
         plugin_activity: yes
