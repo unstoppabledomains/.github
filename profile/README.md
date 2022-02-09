@@ -1,4 +1,4 @@
-[![Unstoppable Domains](/ud.svg)](https://unstoppabledomains.com)
+[![Unstoppable Domains](/profile/ud.svg)](https://unstoppabledomains.com)
 
 ## The \#1 provider of NFT domains on the blockchain
 
@@ -16,4 +16,4 @@ Unstoppable Domains’ remote, international team is made up of a wide range of 
 
 ---
 
-![Metrics](/metrics.svg)
+![Metrics](/profile/metrics.svg)
