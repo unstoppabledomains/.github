@@ -8,6 +8,8 @@ Your Unstoppable domain is your cryptocurrency address, your login to the decent
 
 By selling these domains direct to consumers for a one-time fee, we are creating a product that will shape the future of the decentralized web.
 
-Unstoppable Domains’ remote, international team is made up of a wide range of diverse experiences, languages, cultures, nationalities and backgrounds. We are proud to be an inclusive employer with team members in over 18 countries! [Join us!](https://unstoppabledomains.com/careers)
+--
+
+**We're hiring!** Unstoppable Domains’ remote, international team is made up of a wide range of diverse experiences, languages, cultures, nationalities and backgrounds. We are proud to be an inclusive employer with team members in over 18 countries. [Join us!](https://unstoppabledomains.com/careers)
 
 ![Metrics](/metrics.svg)
