@@ -7,6 +7,10 @@ on:
 
 jobs:
   metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: write
     steps:
     - uses: lowlighter/metrics@latest
       with:
