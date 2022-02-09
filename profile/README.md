@@ -10,7 +10,7 @@ Your Unstoppable domain is your cryptocurrency address, your login to the decent
 
 By selling these domains direct to consumers for a one-time fee, we are creating a product that will shape the future of the decentralized web.
 
-Learn more about crypto, NFTs, and Unstoppable Domains on our [YouTube](https://www.youtube.com/channel/UCg3gV2yVjRytsgpc1ZPiqjg) and [podcast](https://the-unstoppable-podcast.simplecast.com/).
+Learn more about crypto, NFTs, and Unstoppable Domains by visiting [our website](https://unstoppabledomains.com), checking out our [YouTube](https://www.youtube.com/channel/UCg3gV2yVjRytsgpc1ZPiqjg) channel, and listening to our [podcast](https://the-unstoppable-podcast.simplecast.com/).
 
 ---
 
