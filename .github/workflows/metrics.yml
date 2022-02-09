@@ -17,6 +17,7 @@ jobs:
         filename: profile/metrics.svg
         token: ${{ secrets.METRICS_PAT }}
         base: header, activity, community, repositories, metadata
+        plugin_activity: no
         plugin_followup: yes
         plugin_followup_sections: repositories
         plugin_habits: yes
