@@ -15,7 +15,7 @@ jobs:
     - uses: lowlighter/metrics@latest
       with:
         filename: metrics.svg
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.METRICS_PAT }}
         base: header, activity, community, repositories, metadata
         plugin_activity: yes
         plugin_activity_limit: 5
