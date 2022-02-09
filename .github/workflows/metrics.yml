@@ -9,7 +9,6 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     permissions:
-      id-token: write
       contents: write
     steps:
     - uses: lowlighter/metrics@latest
@@ -18,10 +17,6 @@ jobs:
         filename: profile/metrics.svg
         token: ${{ secrets.METRICS_PAT }}
         base: header, activity, community, repositories, metadata
-        plugin_activity: yes
-        plugin_activity_limit: 5
-        plugin_activity_days: 7
-        plugin_activity_filter: issue, pr, release, fork, review, ref/create
         plugin_followup: yes
         plugin_followup_sections: repositories
         plugin_habits: yes
