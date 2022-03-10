@@ -2,7 +2,7 @@
 
 ## The \#1 provider of NFT domains
 
-[Unstoppable Domains](https://unstoppabledomains.com/) are NFT domains that let you create own your digital identity and will help shape the future of Web3.
+[Unstoppable Domains](https://unstoppabledomains.com/) are NFT domains that let you create and own your digital identity and will help shape the future of Web3.
 
 [The Unstoppable Name Service (UNS)](https://github.com/unstoppabledomains/uns) is built on Ethereum and utilizes Polygon as a Layer 2 scaling solution. This allows us to provide NFT domains directly to individuals and businesses for a one-time purchase with no renewal fees, minting fees, or gas fees.
 
