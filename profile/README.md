@@ -10,7 +10,7 @@ An Unstoppable NFT domain acts as a cryptocurrency address, login, universal use
 
 Check out some of the [DApps](https://unstoppabledomains.com/apps) collaborating with Unstoppable like [Coinbase Wallet](https://www.coinbase.com/wallet), [Dehive](https://dehive.finance/), [Trust Wallet](https://trustwallet.com/), [Cook.Finance](https://cook.finance/), [WallStreetBets](https://www.wsbdapp.com/), [Saddle Finance](https://saddle.finance/#/), and [more](https://unstoppabledomains.com/apps)!
 
-If you are a [developer](https://unstoppabledomains.com/developers), or would like to submit an app to integrate with Unstoppable Domains, visit our [documents](https://docs.unstoppabledomains.com/) page.
+If you are a [developer](https://unstoppabledomains.com/developers), or would like to submit an app to integrate with Unstoppable Domains, visit our [documentation](https://docs.unstoppabledomains.com/) page.
 
 Need assistance? Reach out to us on [Twitter](https://twitter.com/unstoppableweb), [Discord](https://discord.com/invite/unstoppabledomains), and [Telegram](https://t.me/unstoppabledomains), or visit our [Help Center](https://support.unstoppabledomains.com/support/home).
 
